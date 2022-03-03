@@ -1,6 +1,7 @@
 body {
-
     color: #f7f7f7;
+    background-color: black;
+    padding-bottom: 100px;
 }
 
 .jumbotron {
@@ -9,7 +10,51 @@ body {
     text-align: center;
 }
 
-li {
-    font-family: inherit; 
+nav {
+    background-color: black;
+}
+
+h1, h3 {
+    font-family: 'Archivo', sans-serif;
+    text-align: center;
+}
+
+a, p, ul, li {
+    font-family: 'Roboto', sans-serif;
+}
+
+form, .filter-search {
+    background-color: black;
+    padding-left: 20px;
+}
+
+form p {
+    padding-left: 40px;
+}
+
+li { 
     font-size: 1rem;
+    width: 200px;
+    display: inline-block;
+}
+
+input {
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.list-group-item {
+    border: 0;
+}
+
+.intro {
+    margin: auto;
+    padding: 5px;
+    padding-bottom: 30px;;
+}
+
+.data-table {
+    max-height: 500px;
+    overflow-y: scroll;
+    padding-right: 80px;
 }
