@@ -1,6 +1,6 @@
 # UFOs
 
-[UFO Finder](https://chrissnead.github.io/UFOs/)
+Use the UFO Finder [here](https://chrissnead.github.io/UFOs/){:target="_blank"}.
 
 ## Overview
 The purpose of this analysis is to filter where and when UFO sightings have been documented.
