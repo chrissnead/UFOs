@@ -1,7 +1,9 @@
 # UFOs
 
+[UFO Finder](https://chrissnead.github.io/UFOs/)
+
 ## Overview
-The purpose of this analysis is to observe where and when UFO sightings have been documented.
+The purpose of this analysis is to filter where and when UFO sightings have been documented.
 
 ## Results
 This website allows users to search UFO sighting data by filtering specific criteria. There are five different filters to search the data table. You may filter by any combination of date, city, state, country, and shape. To update the filter, simply press 'Enter' on your keyboard or click anywhere outside the filters. To reset the filters, delete any text in the input boxes or refresh the page.
